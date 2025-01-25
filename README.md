@@ -32,8 +32,8 @@ oat
 may
 guy
 namo
-plume
-kong
+phu
+fha
 Queue is Full!!
 Plese quite !
 you
@@ -56,6 +56,6 @@ Enqueue guy
 Enqueue namo
  [ oat, may, guy, namo, null ]  [first = 0 , rear = 4 , length = 4] 
 Enqueue plume
- [ oat, may, guy, namo, plume ]  [first = 0 , rear = 5 , length = 5] 
+ [ oat, may, guy, namo, phu ]  [first = 0 , rear = 5 , length = 5] 
 Dequeue oat
-[ may, guy, namo, plume  ]  [first = 1 , rear = 5 , length = 4] 
+[ may, guy, namo, phu  ]  [first = 1 , rear = 5 , length = 4] 
